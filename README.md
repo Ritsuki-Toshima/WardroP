@@ -3,9 +3,12 @@ Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/ra
 # 👕　WardroP - Your Luxury Wardrobe Sharing Platform👚
 Welcome to WardroP, the ultimate destination for luxury fashion enthusiasts. WardroP offers a unique experience, allowing you to effortlessly rent high-end clothing for special occasions or share your exquisite wardrobe with fellow fashion enthusiasts.
 
-<img width="1440" alt="Screenshot 2023-09-04 at 12 19 22" src="https://github.com/Ritsuki-Toshima/WardroP/assets/138346709/0038c3db-d1a0-4d08-b637-908829bda74c">
+<img width="1437" alt="Screenshot 2023-09-04 at 15 03 58" src="https://github.com/Ritsuki-Toshima/WardroP/assets/138346709/a5986d26-9c7b-4bed-a2fd-cd5f4699bba8">
+<img width="1435" alt="Screenshot 2023-09-04 at 15 04 33" src="https://github.com/Ritsuki-Toshima/WardroP/assets/138346709/24ff4df1-7c4c-48d2-8fdd-2b401fc9bb8d">
+<img width="1434" alt="Screenshot 2023-09-04 at 15 04 54" src="https://github.com/Ritsuki-Toshima/WardroP/assets/138346709/49b0e107-90e7-482a-86df-0eb78313fb24">
+<img width="1436" alt="Screenshot 2023-09-04 at 15 08 17" src="https://github.com/Ritsuki-Toshima/WardroP/assets/138346709/bcd9ec9a-b0a1-47ef-afd8-174e8a033513">
+<img width="1440" alt="Screenshot 2023-09-04 at 15 08 51" src="https://github.com/Ritsuki-Toshima/WardroP/assets/138346709/5edefac4-0d82-4552-8c47-3d014fb3091c">
 
-<img width="1440" alt="Screenshot 2023-09-04 at 12 19 35" src="https://github.com/Ritsuki-Toshima/WardroP/assets/138346709/1fa6d83d-e7e5-479b-a260-715ea6d4957b">
 
 <br>
 App home: https://wardrop-f993abaafe8e.herokuapp.com/
